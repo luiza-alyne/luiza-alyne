@@ -1,5 +1,7 @@
 BEM VINDO AO MEU PERFIL!
-![](![image](https://github.com/user-attachments/assets/818d9f3a-ff04-478b-8f3a-814a32031d2c))
+
+Sou apaixonada em gatos!♡
+![image](https://github.com/user-attachments/assets/ee4df83c-391c-46b1-a6c4-b9c8e42e20c5)
 
 Meu nome é Alyne Luiza
 
@@ -8,3 +10,4 @@ Meu nome é Alyne Luiza
 -Estou me desenvolvendo na linguagem JavaScript
 
 -Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
